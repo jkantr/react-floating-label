@@ -51,6 +51,7 @@
     "catw": "~0.0.1",
     "classnames": "^2.2.3",
     "ecstatic": "~1.4.0",
+    "prop-types": "^15.6.1",
     "react": "~0.14.7",
     "react-dom": "~0.14.7",
     "snyk": "^1.21.2",

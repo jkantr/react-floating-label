@@ -1,6 +1,7 @@
 import React, { PropTypes } from 'react';
 import ReactDOM from 'react-dom';
-import classNames from 'classnames'
+import PropTypes from 'prop-types';
+import classNames from 'classnames';
 
 export default class FloatingLabel extends React.Component {
   _bind(...methods) {
